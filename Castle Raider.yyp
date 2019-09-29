@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "42f43a59-8a46-43c9-920e-20116ae7e523",
+            "Value": {
+                "id": "7935f2b6-89f1-42c3-bf30-ad5e9a91bf78",
+                "resourcePath": "scripts\/player_crouch_state\/player_crouch_state.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "62d3e7c1-fcd2-4bb8-94a5-57f0493370fb",
             "Value": {
                 "id": "9dcfc26c-4e77-417a-b94e-6ceef1773814",
@@ -188,6 +196,14 @@
                 "id": "9bda9d05-a14f-43cd-9545-87100c716b57",
                 "resourcePath": "sprites\/s_player_attack\/s_player_attack.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "78e77e75-c197-44fe-bc7c-3fe790dbd281",
+            "Value": {
+                "id": "016e5073-4983-4e68-8ead-efa06d9a984b",
+                "resourcePath": "scripts\/player_crouch_block_state\/player_crouch_block_state.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -236,6 +252,14 @@
                 "id": "d5c52752-2a15-470e-93a5-831062e08a71",
                 "resourcePath": "objects\/o_player\/o_player.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a3e73669-12fd-4979-9a87-5014ae3bae77",
+            "Value": {
+                "id": "3951df44-d7e6-493a-ac0e-fbf1e19f5bc5",
+                "resourcePath": "scripts\/player_jump_state\/player_jump_state.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -327,6 +351,14 @@
             }
         },
         {
+            "Key": "f11f87f5-d68e-4b36-9094-82bf44dda946",
+            "Value": {
+                "id": "ce857de2-8d1d-40c7-8e3a-7e009d5c8c50",
+                "resourcePath": "scripts\/player_block_state\/player_block_state.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "93caf39b-b37a-4562-bf77-445068f78918",
@@ -341,6 +373,14 @@
                 "resourcePath": "views\/f749d0fe-887f-4638-b41a-9f2cb92dd35a.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "f89930a6-3004-48d2-87af-c1dc1641f92f",
+            "Value": {
+                "id": "72367e37-5d98-40ea-933a-21a3af70b8a5",
+                "resourcePath": "scripts\/player_attack_state\/player_attack_state.yy",
+                "resourceType": "GMScript"
+            }
         }
     ],
     "script_order": [
@@ -349,7 +389,12 @@
         "1c738c04-65f6-4dc1-b243-067ea9b72426",
         "c0117e1b-f831-4c56-b31b-dd20bb4615b4",
         "eb34e482-493b-4b49-9cce-2adc3a51469f",
-        "3183202d-d250-4642-ae4d-49e5090d64ff"
+        "3183202d-d250-4642-ae4d-49e5090d64ff",
+        "a3e73669-12fd-4979-9a87-5014ae3bae77",
+        "f89930a6-3004-48d2-87af-c1dc1641f92f",
+        "f11f87f5-d68e-4b36-9094-82bf44dda946",
+        "42f43a59-8a46-43c9-920e-20116ae7e523",
+        "78e77e75-c197-44fe-bc7c-3fe790dbd281"
     ],
     "tutorial": ""
 }
