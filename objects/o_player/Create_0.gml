@@ -4,9 +4,9 @@ hsp = 0;
 vsp = 0;
 max_hsp = 2;
 walk_spd = 1.5;
-
 hsp_decimal = 0;
 vsp_decimal = 0;
+jump_spd = -5;
 
 // friction
 drag = .12;
@@ -14,12 +14,14 @@ drag = .12;
 // facing direction
 facing = 1; // 1 = facing right, -1 = facing left
 
-// movement
+// movement (defined here for initial values, even if script later reassigns it)
 left = 0;
 right = 0;
 up = 0;
 down = 0;
 attack = 0;
+jump = 0;
+block = 0;
 
 // states
 enum states {
@@ -32,6 +34,7 @@ enum states {
 	CROUCH_BLOCK
 }
 
+// the actual state we're in
 state = states.IDLE;
 
 // create states array

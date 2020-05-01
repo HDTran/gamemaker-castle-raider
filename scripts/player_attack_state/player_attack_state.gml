@@ -7,7 +7,7 @@ calc_movement();
 
 // check state
 // image_index starts at 0
-// image_number, total number of numbers, starts at 1
+// image_number, total number of frames, starts at 1
 
 if (image_index >= image_number - sprite_get_speed(sprite_index)/room_speed) {
 	if (hsp != 0) {

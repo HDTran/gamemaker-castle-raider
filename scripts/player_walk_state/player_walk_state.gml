@@ -15,6 +15,16 @@ if (attack) {
 	image_index = 0; // play the attack animation from the first frame
 }
 
+if (jump) {
+	state = states.JUMP;
+	vsp = jump_spd;
+}
+
+if (block) {
+	state = states.BLOCK;
+	hsp = 0;
+}
+
 // apply movement
 collision();
 

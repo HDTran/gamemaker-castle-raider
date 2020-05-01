@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "b10e3cda-593e-427c-8441-810b6f89967c",
+            "Value": {
+                "id": "f3f6f2f4-d177-43f5-be66-cd394b1344e9",
+                "resourcePath": "scripts\/on_ground\/on_ground.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "bd4d2596-9692-4670-986f-f0cbe94688a1",
             "Value": {
                 "id": "79f1e202-9718-4f86-9c88-cd44ee1a4a38",
@@ -435,7 +443,8 @@
         "f11f87f5-d68e-4b36-9094-82bf44dda946",
         "42f43a59-8a46-43c9-920e-20116ae7e523",
         "78e77e75-c197-44fe-bc7c-3fe790dbd281",
-        "6ceba91e-cf0b-42fc-befb-47b7a5b56838"
+        "6ceba91e-cf0b-42fc-befb-47b7a5b56838",
+        "b10e3cda-593e-427c-8441-810b6f89967c"
     ],
     "tutorial": ""
 }
