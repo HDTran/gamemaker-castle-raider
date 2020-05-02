@@ -58,3 +58,12 @@ sprites_array[states.ATTACK] = s_player_attack;
 sprites_array[states.BLOCK] = s_player_block;
 sprites_array[states.CROUCH] = s_player_crouch;
 sprites_array[states.CROUCH_BLOCK] = s_player_crouch_block;
+
+// create mask array
+mask_array[states.IDLE] = s_player_idle;
+mask_array[states.WALK] = s_player_idle;
+mask_array[states.JUMP] = s_player_idle;
+mask_array[states.ATTACK] = s_player_idle;
+mask_array[states.BLOCK] = s_player_idle;
+mask_array[states.CROUCH] = s_player_crouch;
+mask_array[states.CROUCH_BLOCK] = s_player_crouch_block;
