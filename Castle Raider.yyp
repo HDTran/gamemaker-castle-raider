@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "2059e6df-e4cb-4686-bd78-c996891a3480",
+            "Value": {
+                "id": "643bfe93-9037-45b3-bca6-3b7770b121c9",
+                "resourcePath": "scripts\/jump_dust\/jump_dust.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "24206723-5e48-407a-a942-9ae016ccf089",
             "Value": {
                 "id": "f509d691-0876-446b-b86f-1627dadf711d",
@@ -167,6 +175,14 @@
             }
         },
         {
+            "Key": "44a06003-811d-4135-8d4a-a3120a3d5cb2",
+            "Value": {
+                "id": "5a8420c2-ffb3-4171-b63f-52e193ef2b55",
+                "resourcePath": "scripts\/jumped\/jumped.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "453dc234-d620-4dd7-8dc2-fc9e32096d2b",
             "Value": {
                 "id": "1e257800-7cb3-4254-b4be-f8c8bcc14c04",
@@ -220,6 +236,14 @@
                 "id": "9bda9d05-a14f-43cd-9545-87100c716b57",
                 "resourcePath": "sprites\/s_player_attack\/s_player_attack.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "788fd3d5-858d-4616-8709-8d2b8953d038",
+            "Value": {
+                "id": "33b84757-6d53-4226-911c-b258372557d7",
+                "resourcePath": "objects\/o_player_dust_land\/o_player_dust_land.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -343,6 +367,14 @@
             }
         },
         {
+            "Key": "c71709db-0ced-45c1-b7d3-c696ab75aba9",
+            "Value": {
+                "id": "11b178cf-1ca3-4793-9f51-014f38706b73",
+                "resourcePath": "sprites\/s_player_dust_jump\/s_player_dust_jump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c8f6caa0-f1c1-4224-8c5b-02fc92ab7c31",
             "Value": {
                 "id": "4bba042c-58c8-495f-a310-0cd653526292",
@@ -415,6 +447,14 @@
             }
         },
         {
+            "Key": "f62b5a2a-b93f-4185-8fcd-85b76ee53e43",
+            "Value": {
+                "id": "eed26568-ff2b-4c9a-a8b2-c4b1b59388fe",
+                "resourcePath": "sprites\/s_player_dust_land\/s_player_dust_land.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f749d0fe-887f-4638-b41a-9f2cb92dd35a",
             "Value": {
                 "id": "a3db8460-e5ba-4e9c-bb42-a008b93f2d0c",
@@ -428,6 +468,14 @@
                 "id": "72367e37-5d98-40ea-933a-21a3af70b8a5",
                 "resourcePath": "scripts\/player_attack_state\/player_attack_state.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f9a81e27-be1d-4ecf-89ab-cd06576b4254",
+            "Value": {
+                "id": "819c41c0-328a-43ee-982c-fcea54057210",
+                "resourcePath": "objects\/o_player_dust_jump\/o_player_dust_jump.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
@@ -444,7 +492,9 @@
         "42f43a59-8a46-43c9-920e-20116ae7e523",
         "78e77e75-c197-44fe-bc7c-3fe790dbd281",
         "6ceba91e-cf0b-42fc-befb-47b7a5b56838",
-        "b10e3cda-593e-427c-8441-810b6f89967c"
+        "b10e3cda-593e-427c-8441-810b6f89967c",
+        "44a06003-811d-4135-8d4a-a3120a3d5cb2",
+        "2059e6df-e4cb-4686-bd78-c996891a3480"
     ],
     "tutorial": ""
 }
