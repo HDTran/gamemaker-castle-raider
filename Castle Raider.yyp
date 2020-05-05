@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "038896f8-57e9-4f25-b6e6-875d16c32179",
+            "Value": {
+                "id": "3d41be67-8443-43c6-b204-6a901dd3f59b",
+                "resourcePath": "views\/038896f8-57e9-4f25-b6e6-875d16c32179.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "03aac804-ec50-4c7e-91ad-6ee0176720f9",
             "Value": {
                 "id": "82324f24-3021-4980-9c3a-fb7aafaea972",
@@ -332,6 +340,14 @@
                 "id": "3951df44-d7e6-493a-ac0e-fbf1e19f5bc5",
                 "resourcePath": "scripts\/player_jump_state\/player_jump_state.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a5c73e69-2dfb-4e32-8b28-9879ba823a61",
+            "Value": {
+                "id": "5e169b60-b026-4752-93bc-2d3b19497dfc",
+                "resourcePath": "sprites\/s_bkgd_moon\/s_bkgd_moon.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
